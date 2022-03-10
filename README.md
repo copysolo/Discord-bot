@@ -27,6 +27,8 @@
 - import random
 - Pycharm or other 
 - Python 3.9
+
+- ------
 **Install**
 
 - Git clone 
