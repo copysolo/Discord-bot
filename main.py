@@ -190,4 +190,4 @@ async def clear(ctx, nombre: int):
 
 
 bot.run(
-    "OTM1ODI2NDM0NzU1MjcyNzU1.YfESSA.BiFXUgY_TSVSRPgBajGpsuMg3NY")  # Ceci est le token de mon bot. Changez le avec celui de votre bot
+    "Mettre le token discord ici ")  # Ceci est le token de mon bot. Changez le avec celui de votre bot
