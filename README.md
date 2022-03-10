@@ -20,11 +20,16 @@
 - 🚦 **Theme Kai:sen** **Ventoy Kai:sen-Dark-Theme**
 
 - ------
-
+**Prérequis**
+- import discord
+- from discord.ext import commands
+- import asyncio
+- import random
+- Pycharm or other 
+- Python 3.9
 **Install**
 
 - Git clone 
-
 
 - Enjoy 😄
 
