@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **System and network technician**
 
-- 👨‍💻 All of my projects are available at [www.backtothdev.com](www.backtothdev.com)
+- 👨‍💻 All of my projects are available at [www.sysadmin.amsocket.fr](www.sysadmin.amsocket.fr)
 
-- 📝 I regularly write articles on [www.backtothdev.com](www.backtothdev.com)
+- 📝 I regularly write articles on [www.sysadmin.amsocket.fr](www.sysadmin.amsocket.fr)
 
 - 📫 How to reach me **dev.achaib@gmx.fr**
 
